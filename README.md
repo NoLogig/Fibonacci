@@ -1,5 +1,7 @@
 # Fibonacci
+![Fibonacci](https://de.wikipedia.org/wiki/Fibonacci-Folge#/media/File:Fibonacci_sequence_-_optional_starting_with_zero.jpg)
 
+## Env
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.0.2.
 
 ## Development server
